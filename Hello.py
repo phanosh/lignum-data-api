@@ -55,7 +55,5 @@ def run():
     st.write("# Lignum Data API Viewer 👋")
 
 
-
-
 if __name__ == "__main__":
     run()
