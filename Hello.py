@@ -45,15 +45,3 @@ if __name__ == "__main__":
 
 LOGGER = get_logger(__name__)
 
-
-def run():
-    st.set_page_config(
-        page_title="LignumDataAPI",
-        page_icon="👋",
-    )
-
-    st.write("# Lignum Data API Viewer 👋")
-
-
-if __name__ == "__main__":
-    run()
